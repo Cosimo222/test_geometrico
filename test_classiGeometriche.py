@@ -9,3 +9,4 @@ def test_Triangolo():
     pass    
 def test_rettangolo():
     pass
+def test_poligono_2()
