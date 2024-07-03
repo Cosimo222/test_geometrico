@@ -7,3 +7,5 @@ def test_Poligono():
     ...
 def test_Triangolo():
     pass    
+def test_rettangolo():
+    pass
